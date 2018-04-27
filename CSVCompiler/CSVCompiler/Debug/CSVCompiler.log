@@ -1,0 +1,6 @@
+﻿  CSVCompiler.cpp
+c:\users\nguyenchris\desktop\folders\vs programs\csvcompiler\csvcompiler\csvcompiler.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\nguyenchris\desktop\folders\vs programs\csvcompiler\csvcompiler\csvcompiler.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\nguyenchris\desktop\folders\vs programs\csvcompiler\csvcompiler\csvcompiler.cpp(133): warning C4018: '<': signed/unsigned mismatch
+  CSVCompiler.vcxproj -> C:\Users\NguyenChris\Desktop\Folders\VS Programs\CSVCompiler\Debug\CSVCompiler.exe
+  CSVCompiler.vcxproj -> C:\Users\NguyenChris\Desktop\Folders\VS Programs\CSVCompiler\Debug\CSVCompiler.pdb (Full PDB)
